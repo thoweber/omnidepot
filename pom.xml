@@ -20,7 +20,7 @@
 
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
-        <quarkus.platform.version>3.38.0</quarkus.platform.version>
+        <quarkus.platform.version>3.39.4</quarkus.platform.version>
         <aws.sdk.version>2.55.2</aws.sdk.version>
 
         <compiler-plugin.version>3.16.0</compiler-plugin.version>
