@@ -31,7 +31,7 @@
         <sonar.version>5.8.0.7211</sonar.version>
         <lombok.version>1.18.48</lombok.version>
         <jspecify.version>1.0.1</jspecify.version>
-        <bouncycastle.version>1.86</bouncycastle.version>
+        <bouncycastle.version>1.87</bouncycastle.version>
 
         <!-- SonarCloud Configuration -->
         <sonar.organization>thoweber</sonar.organization>
